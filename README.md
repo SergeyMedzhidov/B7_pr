@@ -1,2 +1,2 @@
 # B7_pr
-Docker
+Система сборки Docker
